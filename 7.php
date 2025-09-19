@@ -58,7 +58,7 @@
             $avg_n = $npalk / $nkokku;
 
             if ($avg_m > $avg_n) {
-                echo "Naise ahistatakse";
+                echo "Naisi ahistatakse";
             } elseif ($avg_m < $avg_n) {
                 echo "Mehi ahistatakse";
             } else {

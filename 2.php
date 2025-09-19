@@ -66,7 +66,7 @@
     <h2>Kolmega jagunevad arvud 1-100</h2>
     
     <?php
-    // Kolmega jagunevad arvud 1-100
+    
     for ($i = 1; $i <= 100; $i++) {
         if ($i % 3 == 0) {
             echo $i . " ";

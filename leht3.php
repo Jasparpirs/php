@@ -9,6 +9,5 @@
     <h1>Lõpuks</h1>
 
     <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, cum qui, beatae odit, sit nam quibusdam porro vero dolores ullam velit dolor. Dicta, quas laudantium quidem animi atque rerum maiores?</h2>
-    
 </body>
 </html>

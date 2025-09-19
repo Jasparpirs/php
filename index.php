@@ -89,25 +89,51 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="card mb-4 shadow-sm">
+                <div class="card mb-4 shadow
+                            <div class="card mb-4 shadow-sm">
                     <div class="card-body">
                         <h5 class="card-title">Harjutus 9</h5>
                         <a href="5.php" class="btn btn-primary">Vaata</a>
                     </div>
                 </div>
             </div>
-            <div
-             class="col-md-4">
+            <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
                     <div class="card-body">
                         <h5 class="card-title">Harjutus 10</h5>
                         <a href="6.php" class="btn btn-primary">Vaata</a>
                     </div>
-                    <div
-             class="col-md-4">
+                </div>
+            </div>
+            <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
                     <div class="card-body">
                         <h5 class="card-title">Harjutus 12</h5>
                         <a href="7.php" class="btn btn-primary">Vaata</a>
                     </div>
-            
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Harjutus 13-14</h5>
+                        <a href="8.php" class="btn btn-primary">Vaata</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Iseseisev</h5>
+                        <a href="iseseisev.php" class="btn btn-primary">Vaata</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

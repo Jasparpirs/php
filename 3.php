@@ -58,12 +58,11 @@ function headmotted() {
     $oodis = array("jookseb", "hüppab", "lendab", "mängib", "magab");
     $sihitis = array("aeda", "metsas", "taevas", "maja ees", "tänaval");
 
-    // Valime suvalised elemendid massiividest
+   
     $randomAlus = $alused[array_rand($alused)];
     $randomOodis = $oodis[array_rand($oodis)];
     $randomSihitis = $sihitis[array_rand($sihitis)];
 
-    // Koostame lause
     return "$randomAlus $randomOodis $randomSihitis.";
 }
 ?>
