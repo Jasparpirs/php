@@ -134,6 +134,7 @@
                             </li>
                             <li><a href="./blog.php">kalkulaator</a></li>
                             <li><a href="./contact.html">kontakt</a></li>
+                            <li><a href="./downloads.php">Downloads</a></li>
                         </ul>
                     </nav>
                 </div>

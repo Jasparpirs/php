@@ -132,6 +132,7 @@
                             </li>
                             <li class="active"><a href="./blog.html">kalkulaator</a></li>
                             <li><a href="./contact.html">kontakt</a></li>
+                            <li><a href="./downloads.php">Downloads</a></li>
                         </ul>
                     </nav>
                 </div>
