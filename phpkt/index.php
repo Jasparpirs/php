@@ -94,7 +94,7 @@
                 <div class="col-lg-12">
                     <nav class="header__menu mobile-menu">
                         <ul>
-                            <li class="active"><a href="./index.php">Home</a></li>
+                            <li class="active"><a href="./index.php">Avaleht</a></li>
                             
                             <li><a href="./shop.php">tooted</a></li>
                             <li><a href="#">Pages</a>

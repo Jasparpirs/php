@@ -127,6 +127,13 @@
                         <h5 class="card-title">Iseseisev</h5>
                         <a href="iseseisev.php" class="btn btn-primary">Vaata</a>
                     </div>
+                    </div>
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Kontrolltöö</h5>
+                        <a href="phpkt/index.php" class="btn btn-primary">Vaata</a>
+                    </div>
                 </div>
             </div>
         </div>

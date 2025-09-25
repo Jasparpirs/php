@@ -1,5 +1,4 @@
-Kogus: 0, Hind: 0, Eritellimus: ei, Koguhind: 0.00
-Kogus: 20, Hind: 10, Eritellimus: ei, Koguhind: 0.00
-Kogus: 10, Hind: 1, Eritellimus: ei, Koguhind: 0.00
-Kogus: 10, Hind: 1, Koguhind: 10.00
-Kogus: 10, Hind: 1, Koguhind: 10.00
+Kogus: 0, Hind: 0, Koguhind: 0.00
+Kogus: 0, Hind: 0, Koguhind: 0.00
+Kogus: 0, Hind: 0, Koguhind: 0.00
+Kogus: 0, Hind: 0, Koguhind: 0.00

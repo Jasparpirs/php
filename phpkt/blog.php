@@ -14,16 +14,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="/css/flaticon.css" type="text/css">
-    <link rel="stylesheet" href="/css/barfiller.css" type="text/css">
-    <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css">
-    <link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="/css/elegant-icons.css" type="text/css">
-    <link rel="stylesheet" href="/css/nice-select.css" type="text/css">
-    <link rel="stylesheet" href="/css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="/css/slicknav.min.css" type="text/css">
-    <link rel="stylesheet" href="/css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/flaticon.css" type="text/css">
+    <link rel="stylesheet" href="css/barfiller.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 
 <body>
@@ -37,16 +37,16 @@
     <div class="offcanvas-menu-wrapper">
         <div class="offcanvas__cart">
             <div class="offcanvas__cart__links">
-                <a href="#" class="search-switch"><img src="/img/icon/search.png" alt=""></a>
-                <a href="#"><img src="/img/icon/heart.png" alt=""></a>
+                <a href="#" class="search-switch"><img src="img/icon/search.png" alt=""></a>
+                <a href="#"><img src="img/icon/heart.png" alt=""></a>
             </div>
             <div class="offcanvas__cart__item">
-                <a href="#"><img src="/img/icon/cart.png" alt=""> <span>0</span></a>
+                <a href="#"><img src="img/icon/cart.png" alt=""> <span>0</span></a>
                 <div class="cart__price">Cart: <span>$0.00</span></div>
             </div>
         </div>
         <div class="offcanvas__logo">
-            <a href="./index.php"><img src="/img/logo.png" alt=""></a>
+            <a href="./index.html"><img src="img/logo.png" alt=""></a>
         </div>
         <div id="mobile-menu-wrap"></div>
         <div class="offcanvas__option">
@@ -95,15 +95,15 @@
                                 </ul>
                             </div>
                             <div class="header__logo">
-                                <a href="./index.php"><img src="/img/logo.png" alt=""></a>
+                                <a href="./index.html"><img src="img/logo.png" alt=""></a>
                             </div>
                             <div class="header__top__right">
                                 <div class="header__top__right__links">
-                                    <a href="#" class="search-switch"><img src="/img/icon/search.png" alt=""></a>
-                                    <a href="#"><img src="/img/icon/heart.png" alt=""></a>
+                                    <a href="#" class="search-switch"><img src="img/icon/search.png" alt=""></a>
+                                    <a href="#"><img src="img/icon/heart.png" alt=""></a>
                                 </div>
                                 <div class="header__top__right__cart">
-                                    <a href="#"><img src="/img/icon/cart.png" alt=""> <span>0</span></a>
+                                    <a href="#"><img src="img/icon/cart.png" alt=""> <span>0</span></a>
                                     <div class="cart__price">Cart: <span>$0.00</span></div>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@
                     <nav class="header__menu mobile-menu">
                         <ul>
                             <li><a href="./index.php">Avaleht</a></li>
-                            <li><a href="./shop.php">tooted</a></li>
+                            <li><a href="./shop.html">tooted</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="dropdown">
                                     <li><a href="./shop-details.html">Shop Details</a></li>
@@ -146,8 +146,8 @@
             <div class="col-lg-6">
                 <div class="class__form">
                     <div class="section-title">
-                        <span>Kalkulaator</span>
-                        <h2>Arvuta oma <br />hind</h2>
+                        <span>Class cakes</span>
+                        <h2>Made from your <br />own hands</h2>
                     </div>
                     <form action="#">
                         <label for="kogus">Kogus:</label>
@@ -165,14 +165,7 @@
                         }else {
                         echo ($kogus*$hind);
                         }
-
-                    $order = "Kogus: $kogus, Hind: $hind, Koguhind: " . number_format($kogus*$hind, 2) . "\n";
-
-    
-                    file_put_contents("orders.txt", $order, FILE_APPEND | LOCK_EX);
-
                     ?>
-
                 </div>
             </div>
         </div>
@@ -184,15 +177,15 @@
 
 
     <!-- Js Plugins -->
-    <script src="/js/jquery-3.3.1.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery.nice-select.min.js"></script>
-    <script src="/js/jquery.barfiller.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>
-    <script src="/js/jquery.slicknav.js"></script>
-    <script src="/js/owl.carousel.min.js"></script>
-    <script src="/js/jquery.nicescroll.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery.barfiller.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.nicescroll.min.js"></script>
+    <script src="js/main.js"></script>
 </body>
 
 </html>
